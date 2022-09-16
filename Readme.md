@@ -2,7 +2,9 @@
 
  ***
 This notebook is an EDA of the "19,000 Spotify Songs" dataset [available on Kaggle](https://www.kaggle.com/edalrami/19000-spotify-songs).
-It is mostly an excuse to try **[pandas-profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)** on a dataset of a few thousands observations, and carry on the EDA after that. **Pandas-profiling is a library that generates (and export) html EDA reports automatically**. 
+It is mostly an excuse to try **[pandas-profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)** on a dataset of a few thousands observations, and carry on the EDA after that. 
+
+nb. **Pandas-profiling is a library that generates (and export) html EDA reports automatically**. 
 
 ***
 
